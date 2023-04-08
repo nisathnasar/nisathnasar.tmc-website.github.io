@@ -33,3 +33,10 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+// get all anchors with class "my-class"
+var anchors = document.querySelectorAll('.quiz-link-anchor');
+
+// loop through each anchor and set the href attribute
+for (var i = 0; i < anchors.length; i++) {
+  anchors[i].setAttribute('href', 'https://forms.gle/dsYwb2YoeLz7ss5L7');
+}
