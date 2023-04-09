@@ -40,8 +40,8 @@ var anchors = document.querySelectorAll('.quiz-link-anchor');
 for (var i = 0; i < anchors.length; i++) {
   anchors[i].setAttribute('href', 
   
-  
-  'https://forms.gle/dsYwb2YoeLz7ss5L7'
+
+  'https://forms.gle/tz4t2FXvxDtZUUoW6'
   
 
   );
