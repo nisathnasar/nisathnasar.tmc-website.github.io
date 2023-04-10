@@ -43,6 +43,5 @@ for (var i = 0; i < anchors.length; i++) {
 
   'https://forms.gle/S64k5vSdxUAFbaNu5'
   
-
   );
 }
