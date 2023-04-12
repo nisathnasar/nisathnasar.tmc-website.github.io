@@ -41,8 +41,7 @@ for (var i = 0; i < anchors.length; i++) {
   anchors[i].setAttribute('href', 
   
 
-  'https://forms.gle/6zg1CAyR1J5d7Qow6'
+  'https://forms.gle/WtP5iZf9tji895JJ8'
   
   );
 }
-
